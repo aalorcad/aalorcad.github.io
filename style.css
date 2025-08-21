@@ -1,0 +1,22 @@
+html {
+    font-size: 16px; /* Tamaño de letra base para rem */
+}
+
+body {
+    font-size: 1rem; /* Tamaño de letra relativo al documento */
+}
+
+.container {
+    width: 80%; /* Ancho relativo al contenedor */
+    height: 100vh; /* Alto relativo al viewport */
+    padding: 20px; /* Padding en píxeles */
+    border: 1cm solid black; /* Borde en centímetros */
+    margin: 2in auto; /* Margen en pulgadas, centrado horizontalmente */
+}
+
+.box {
+    width: 10em; /* Ancho relativo al tamaño de letra del elemento */
+    height: 5em; /* Alto relativo al tamaño de letra del elemento */
+    font-size: 12pt; /* Tamaño de letra en puntos */
+    border: 2mm dashed blue; /* Borde en milímetros */
+}
