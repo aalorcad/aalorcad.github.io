@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-size: 1rem; /* Tamaño de letra relativo al documento */
+    font-size: 26px; /* Tamaño de letra relativo al documento */
 }
 
 .container {
