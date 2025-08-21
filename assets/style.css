@@ -2,30 +2,17 @@ html {
     font-size: 30px; /* Tamaño de letra base para rem */
 }
 h1 {
-    color: white; /* Puedes usar nombres de colores */
+    color: yellow; /* Puedes usar nombres de colores */
 }
 body {
     font-size: 1rem; /* Tamaño de letra relativo al documento */
-    background-image: url("assets/paraiso.jpg"); /* Ruta de la imagen */
+    background-image: url("/assets/bf_6.jpg"); /* Ruta de la imagen */
     background-size: cover; /* Ajusta la imagen al tamaño de la pantalla */
     background-repeat: no-repeat; /* Evita que se repita */
     background-position: center; /* Centra la imagen */
 }
 
-.container {
-    width: 80%; /* Ancho relativo al contenedor */
-    height: 100vh; /* Alto relativo al viewport */
-    padding: 20px; /* Padding en píxeles */
-    border: 1cm solid black; /* Borde en centímetros */
-    margin: 2in auto; /* Margen en pulgadas, centrado horizontalmente */
-}
 
-.box {
-    width: 10em; /* Ancho relativo al tamaño de letra del elemento */
-    height: 5em; /* Alto relativo al tamaño de letra del elemento */
-    font-size: 12pt; /* Tamaño de letra en puntos */
-    border: 2mm dashed blue; /* Borde en milímetros */
-}
 p {
 color: white;
 font-size: 26px
