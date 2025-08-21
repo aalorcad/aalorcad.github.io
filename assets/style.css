@@ -2,7 +2,7 @@ html {
     font-size: 30px; /* Tamaño de letra base para rem */
 }
 h1 {
-    color: #E8E6E6; /* Puedes usar nombres de colores */
+    color: white; /* Puedes usar nombres de colores */
 }
 body {
     font-size: 1rem; /* Tamaño de letra relativo al documento */
@@ -27,7 +27,7 @@ body {
     border: 2mm dashed blue; /* Borde en milímetros */
 }
 p {
-color: #E8E6E6;
+color: white;
 font-size: 26px
 
 }
