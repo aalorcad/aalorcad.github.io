@@ -20,3 +20,8 @@ body {
     font-size: 12pt; /* Tamaño de letra en puntos */
     border: 2mm dashed blue; /* Borde en milímetros */
 }
+p {
+color: #f00000;
+font-size: x-large
+
+}
