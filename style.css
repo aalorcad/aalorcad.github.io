@@ -1,9 +1,9 @@
 html {
-    font-size: 16px; /* Tamaño de letra base para rem */
+    font-size: 30px; /* Tamaño de letra base para rem */
 }
 
 body {
-    font-size: 26px; /* Tamaño de letra relativo al documento */
+    font-size: 1rem; /* Tamaño de letra relativo al documento */
 }
 
 .container {
