@@ -4,3 +4,4 @@ function calcularHipo(num1, num2) {
     let result = Math.sqrt(num1 ** 2 + num2 ** 2);
     return result;
 }
+console.log(4,8)
