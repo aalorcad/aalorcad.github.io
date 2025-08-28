@@ -5,3 +5,4 @@ function calcularHipo(num1, num2) {
     return result;
 }
 console.log(calcularHipo(4,8))
+console.log("resultado de la hipotenusa")
