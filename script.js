@@ -6,3 +6,6 @@ function calcularHipo(num1, num2) {
 }
 console.log(calcularHipo(4,8))
 console.log("resultado de la hipotenusa")
+const ts = Date.now();
+
+document.writeln("<p> Hola, la hora es " + ts + "</p>")
